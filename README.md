@@ -1,7 +1,7 @@
 ## 📦 PyPI
 - For documentation refer to
 
-https://alignment-tools.readthedocs.io/en/latest/cellblender.html
+https://cellblender.readthedocs.io/en/latest/cellblender.html
 
 You can install this package via pip:
 

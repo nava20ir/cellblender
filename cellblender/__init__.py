@@ -1,5 +1,7 @@
 # biofoldutils/__init__.py
 from .core import (
+MS_FRAGGER_INPUT_FILE,
+DRUG_MAP_ABUNDANCE_FILE,
 make_line_plot,
 make_venn_diagram2,
 make_venn_diagram3,
